@@ -41,7 +41,9 @@ Birkaç model daha vardır. Bunlar:
 - Kodla ve Düzelt Yaşam Döngü Modeli
 - Evrimsel Geliştirme Modeli
 - Prototipleme/Örnekleme Modeli
+
 ### Peki Agile Nedir? 
+
 Agile yazılım sistemlerindeki genel giderlerin azaltılmasını sağlayan ve büyük değişikliklere neden olmadan istenilen değişikliklere hızlı bir şekilde cevap verebilmeyi amaçlayan yazılım geliştirme yöntemidir. Müşteriyi memnun etmek için uzun vadeli katı planlama ve geliştirme süreçleri yerine, değişen koşullara hızla adapte olup (hem değişen koşulların getirdiği riskleri bertaraf etme anlamında hem de değişen koşulların doğurduğu fırsatları yakalayabilme anlamında) çok kısa aralıklarla yeni sürümler çıkarmayı öne çıkaran bir yazılım geliştirme disiplinidir. Agile yöntemi, diğer sektörlerdeki yaklaşımların bir devamı olarak 1970’li yıllardan itibaren yazılım sektöründe uygulanmaya başlanmıştır. Yazılım geliştirme sürecini hızlandırmak, daha etkin kullanmak ve gerektiğinde dokümante etmek amacıyla ortaya çıkan, dünyada birçok yazılım firmasının farklı projelerinde benimsediği bu metodun kullanımı 1990’larda artmıştır.
 Aşırı kuralcı klasik yazılım süreç modellerine tepki olarak ortaya çıkan Agile Manifestosu öncesinde yazılımlar daha yüksek maliyetli ve daha yavaş geliştirilmekteydi.
 2001 yılında yazılım dünyasının önde gelen isimlerinde oluşan 17 kişilik ekip Amerika’nın Utah eyaletinde bir araya gelerek 2 gün süren bir toplantı yaptılar. Bu toplantının sonucunda fikir birliğine varılan 4 maddelik “Çevik Yazılım Geliştirme Manifestosu” nu yayınladılar.
@@ -91,6 +93,7 @@ Bu araştırma konusunda Scrum üzerine durulmuştur. Peki Scrum nedir? Scrum; A
 ***4)Sprint Backlog;*** Geliştirme takımı tarafından product backlog itemlar öncelik sırasına göre sprint içerisine alınırlar.
 ***5)Scrum board;*** Bir sprint içerisinde yapılacak olan maddeler burada yönetilir. Yapılacak olan tasklar “TO DO” bölümüne alınır. Takım üyesi bu işe başladığında “IN PROGRESS” bölümüne getirilir. Bir iş, test için hazırsa “TO VERIFY” durumuna getirilir. İş, kontrol edildikten sonra “DONE” bölümüne getirilir. Scrum toplantılarında bu maddeler durumlarına göre yerleri değiştirilir.
 ***6)Burndown Chart;*** Yatay ekseninde sprintin günlerini, dikey ekseninde sprintte kalan işi gösteren grafiktir. Scrum’un temel ilkelerinden olan şeffaflığı sağlar.
+
 ***Pig Roller;*** Scrum sürecine dahil olanlar yani projede asıl işi yapan kişilerdir. Bunlar Scrum Master, Product Owner, Geliştirme Takımı’dır.
 ***1) Product Owner;*** Geliştirme takımı ve müşteri arasındaki iletişimi sağlar. Projenin özelliklerini tanımlar.
 ***2) Scrum Master;*** Scrum kurallarını, teorilerini ve pratiklerini iyi bilir ve takımın bu kurallarını uygulamasından sorumlu kişidir.
@@ -101,4 +104,3 @@ Bu araştırma konusunda Scrum üzerine durulmuştur. Peki Scrum nedir? Scrum; A
 ***1) Sprint Planning;*** Product backlog ile belirtilen gereksinimler, bu toplantı ile geliştirme takımı tarafından küçük görevlere (task) ayrılır.
 ***2) Daily Scrum;*** Her gün aynı yerde aynı saatte ayak üstü yapılan 15 dakikalık toplantılardır.
 ***3)Sprint Review;*** Her sprint sonunda yapılır. Yapılan sprint gözden geçirilir, ortaya çıkan ürün değerlendirilir.
-
