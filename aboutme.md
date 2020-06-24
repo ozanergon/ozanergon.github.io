@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Hakkımda
+subtitle: Ozan Ergön
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Karabük Üniversitesi Bilgisayar Mühendisliği son sınıf öğrencisiyim. Web teknolojileri alanında kendimi geliştiriyorum. Zekaya değil, çalışmaya inanıyorum.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+1995 İstanbul doğumluyum. İlkokul ve Lise eğitimimi Gebze'de tamamladım. Küçük yaşlardan itibaren bilgisayara ve teknolojiye meraklıydım.
 
-What else do you need?
 
-### my history
+### İletişim
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Sayfanın altındaki hesaplardan bana ulaşabilirsiniz.
