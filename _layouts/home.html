@@ -20,8 +20,9 @@ layout: page
     </a>
 
     <p class="post-meta">
-      {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-      Posted on {{ post.date | date: date_format }}
+      <!--{% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+      Posted on {{ post.date | date: date_format }} -->
+      {{ post.date | date: "%d/%m/%Y" }} tarihinde yayınlandı.
     </p>
 
     <div class="post-entry-container">
