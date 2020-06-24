@@ -88,15 +88,23 @@ Bu araştırma konusunda Scrum üzerine durulmuştur. Peki Scrum nedir? Scrum; A
 ![image tooltip here](/assets/img/scrum.jpg)
 
 ***1)Product Backlog;*** Proje için gerekli olan gereksinimler listesidir. Proje sonunda “Ne üretilmek isteniyor?” sorusuna cevap aranır. Product owner tarafından müşteriden gereksinimler alınır, öncelik sırasına göre sıralanır.
+
 ***2)Product Backlog Item;*** Product backlog içindeki her bir gereksinime verilen isimdir.
+
 ***3)Sprint(Koşma);*** Proje sprint denilen küçük kısımlara ayrılır. Scrum içerisindeki tüm aktiviteler sprint içerisinde gerçekleşir.1–2 haftalık süreçlerdir.
+
 ***4)Sprint Backlog;*** Geliştirme takımı tarafından product backlog itemlar öncelik sırasına göre sprint içerisine alınırlar.
+
 ***5)Scrum board;*** Bir sprint içerisinde yapılacak olan maddeler burada yönetilir. Yapılacak olan tasklar “TO DO” bölümüne alınır. Takım üyesi bu işe başladığında “IN PROGRESS” bölümüne getirilir. Bir iş, test için hazırsa “TO VERIFY” durumuna getirilir. İş, kontrol edildikten sonra “DONE” bölümüne getirilir. Scrum toplantılarında bu maddeler durumlarına göre yerleri değiştirilir.
+
 ***6)Burndown Chart;*** Yatay ekseninde sprintin günlerini, dikey ekseninde sprintte kalan işi gösteren grafiktir. Scrum’un temel ilkelerinden olan şeffaflığı sağlar.
 
 ***Pig Roller;*** Scrum sürecine dahil olanlar yani projede asıl işi yapan kişilerdir. Bunlar Scrum Master, Product Owner, Geliştirme Takımı’dır.
+
 ***1) Product Owner;*** Geliştirme takımı ve müşteri arasındaki iletişimi sağlar. Projenin özelliklerini tanımlar.
+
 ***2) Scrum Master;*** Scrum kurallarını, teorilerini ve pratiklerini iyi bilir ve takımın bu kurallarını uygulamasından sorumlu kişidir.
+
 ***3) Geliştirme Takımı;*** Bir Sprint’e alınan bütün işleri tamamlayacak özelliklere sahip kişilerdir. sprint backlogu oluştururlar. Kendi kendini yönetir.
 
 
