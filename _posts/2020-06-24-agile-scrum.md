@@ -110,5 +110,7 @@ Bu araştırma konusunda Scrum üzerine durulmuştur. Peki Scrum nedir? Scrum; A
 
 ### Toplantılar
 ***1) Sprint Planning;*** Product backlog ile belirtilen gereksinimler, bu toplantı ile geliştirme takımı tarafından küçük görevlere (task) ayrılır.
+
 ***2) Daily Scrum;*** Her gün aynı yerde aynı saatte ayak üstü yapılan 15 dakikalık toplantılardır.
+
 ***3)Sprint Review;*** Her sprint sonunda yapılır. Yapılan sprint gözden geçirilir, ortaya çıkan ürün değerlendirilir.
