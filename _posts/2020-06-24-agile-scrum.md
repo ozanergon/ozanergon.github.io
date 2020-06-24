@@ -18,4 +18,4 @@ Yazılım yaşam döngüsünde birden fazla model vardır. Birden fazla olmasın
 Gelişigüzel Model: Bir modelde bir yötenm yoktur ve kişiye özeldir. Takibi zordur. Günümüzde kullanılmamaktadır.
 Şelale(Waterfall) Model: Bu model günümüzde kullanılan güncel modellerin temelidir.Geleneksel bir modeldir  ve geçmişte en popüler döngü modeliydi. Bazı ekipler farketmeden ve uyguladığını bilmeden aslında bu modeli kullanıyor diyebiliriz. Bu modelde her aşama en bir kez tekrar edilir. Bu model iş tanımı çok iyi tanımlanmış ve kısa sürede bitebilecek projelerde kullanılır.
 
-{% include image.html url="/assets/img/software-cycle.jpg" %}
+![image tooltip here](/assets/img/software-cycle.jpg)
